@@ -3,13 +3,18 @@
 I'm a skilled web developer with 3 years of experience. 
 Proven expertise in front-end development in web techs, including: 
 
-Front-End: HTML5, CSS3, JavaScript 
-Framework: React 
-DevOps: Git 
+Front-End: HTML5, CSS3, JavaScript. 
 
-Currently, I'm wielding back-end development into my tool kits:
-Back-End: Node.js, Ruby on Rails
-Framework: Angular
+Framework: React. 
+
+DevOps: Git. 
+
+Currently, I'm wielding back-end development into my tool kits: 
+
+Back-End: Node.js, Ruby on Rails 
+
+Framework: Angular 
+
 Databases: MySQL, MongoDB 
 
 Other skill sets that I'm equipped with include: 
