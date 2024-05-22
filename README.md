@@ -21,6 +21,6 @@ Other skill sets that I'm equipped with include:
 - 👨‍💼 I have been teaching Mathematics & Science for 22 years
 - 💻 I’m currently learning Back-End development
 - 👨‍🏫 Prolific author of numerous books, including Paradisiacal Mathematics; Past, Present & Future of Countries Written in the STARS 
-- 📫 How to reach me: smile@c2harvard.com
+- 💬 How to reach me: smile@c2harvard.com
 
 
