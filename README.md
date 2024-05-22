@@ -1,16 +1,23 @@
-## Hi there 👋
+# ABOUT ME
+##
+I'm a skilled web developer with 3 years of experience. 
+Proven expertise in front-end development, guru in web techs, including:
+Front-End: HTML5, CSS3, JavaScript 
+Framework: React 
+DevOps: Git
+Currently, I'm wielding back-end development into my tool kits:
+Back-End: Node.js, Ruby on Rails
+Framework: Angular
+Databases: MySQL, MongoDB 
 
-<!--
-**afbaslasu/afbaslasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Other skill sets that I'm equipped with include: 
+- WordPress, App Lunch on Google Play Store
+- Content Writing & related skills like SEO, social media content creation, etc
+- Figma, Photoshop, Adobe Illustrator, Ms. Excel, Video Editing
 
-Here are some ideas to get you started:
+- 👨‍💼 I have been teaching Mathematics & Science for 22 years
+- 💻 I’m currently learning Back-End development
+- 👨‍🏫 Prolific author of numerous books, including Paradisiacal Mathematics; Past, Present & Future of Countries Written in the STARS 
+- 📫 How to reach me: smile@c2harvard.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
